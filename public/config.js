@@ -51,7 +51,7 @@ window.Config = {
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/qikaile/uptime-status'
+      url: 'https://github.com/kaygb/uptime-status'
     }
   ]
 };
