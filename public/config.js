@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: '珂泽服务监控',
+  SiteName: '珂泽的服务监控',
 
   // 站点链接
   SiteUrl: '/',
