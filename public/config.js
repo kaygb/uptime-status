@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'Uptime Status',
+  SiteName: '珂泽服务监控',
 
   // 站点链接
   SiteUrl: '/',
@@ -16,7 +16,7 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
-    'ur1078385-b9802a0868414b8a975d5038',
+    'ur820658-019028510d03d59fcf9ffbf4',
     /*
     'm786322663-402cd609baf66832d847ef63',
     'm786322674-0773b2c046e85a9cd3344aa8',
@@ -42,8 +42,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://tjys.now.sh/'
+      text: 'Home',
+      url: 'https://www.170601.xyz/'
+    },
+    {
+        text: 'Blog',
+      url: 'https://blog.170601.xyz/'
     },
     {
       text: 'GitHub',
