@@ -11,8 +11,8 @@ window.Config = {
   // 只需填写域名部分，默认为官网域名
   // 因官网 API 时不时的会 CROS 报错，可填自定义反代域名
   // 详见说明
-  ApiDomain: 'uptime-status.qikaile.workers.dev',
-
+  //ApiDomain: 'uptime-status.qikaile.workers.dev',
+  ApiDomain: 'proxy.eas1.cn',
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
